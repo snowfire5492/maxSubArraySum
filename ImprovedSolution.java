@@ -43,7 +43,7 @@ public class ImprovedSolution {
 			
 		}
 		
-		return max;
+		return max; 
 	}
 
 }
